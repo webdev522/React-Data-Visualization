@@ -1,0 +1,70 @@
+<div class="tabular delegations">
+
+  <table>
+    <caption>ASN</caption>
+    <thead>
+      <tr>
+        <th scope="col">ECONOMY</th>
+        <th scope="col">BLOCKS</th>
+        <th scope="col">DELEGATIONS</th>
+      </tr>
+    </thead>
+    {{#if delegations.asn}}
+    <tbody>
+      {{#each delegations.asn}}
+      <tr>
+        <td class="economy">{{this.code}}</td>
+        <td class="blocks">{{this.new.count}}</td>
+        <td class="delegations">{{this.new.sum}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+    {{/if}}
+  </table>
+
+  <table>
+    <caption>IPv4</caption>
+    <thead>
+      <tr>
+        <th scope="col">ECONOMY</th>
+        <th scope="col">BLOCKS</th>
+        <th scope="col">DELEGATIONS</th>
+      </tr>
+    </thead>
+    {{#if delegations.ipv4}}
+    <tbody>
+      {{#each delegations.ipv4}}
+      <tr>
+        <td class="economy">{{this.code}}</td>
+        <td class="blocks">{{this.new.count}}</td>
+        <td class="delegations">{{this.new.sum}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+    {{/if}}
+  </table>
+
+  <table>
+    <caption>IPv6</caption>
+    <thead>
+      <tr>
+        <th scope="col">ECONOMY</th>
+        <th scope="col">BLOCKS</th>
+        <th scope="col">DELEGATIONS</th>
+      </tr>
+    </thead>
+    {{#if delegations.ipv6}}
+    <tbody>
+      {{#each delegations.ipv6}}
+      <tr>
+        <td class="economy">{{this.code}}</td>
+        <td class="blocks">{{this.new.count}}</td>
+        <td class="delegations">{{this.new.sum}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+    {{/if}}
+  </table>
+
+</div>
+

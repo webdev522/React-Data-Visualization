@@ -1,0 +1,208 @@
+{
+  "success": true,
+  "version": "0.0.2",
+  "query": {
+    "start": 20150101,
+    "end": 20160101,
+    "types": [
+      "asn",
+      "ipv4",
+      "ipv6"
+    ],
+    "format": "json",
+    "economy": "subregion"
+  },
+  "allocations": {
+    "asn": [
+      {
+        "code": "eastern asia",
+        "new": {
+          "count": 169,
+          "sum": 196
+        }
+      },
+      {
+        "code": "oceania",
+        "new": {
+          "count": 246,
+          "sum": 259
+        }
+      },
+      {
+        "code": "south-eastern asia",
+        "new": {
+          "count": 178,
+          "sum": 277
+        }
+      },
+      {
+        "code": "southern asia",
+        "new": {
+          "count": 142,
+          "sum": 439
+        }
+      },
+      {
+        "code": "unknown",
+        "new": {
+          "count": 2,
+          "sum": 3
+        }
+      },
+      {
+        "code": "northern europe",
+        "new": {
+          "count": 2,
+          "sum": 2
+        }
+      },
+      {
+        "code": "northern america",
+        "new": {
+          "count": 4,
+          "sum": 4
+        }
+      },
+      {
+        "code": "western europe",
+        "new": {
+          "count": 2,
+          "sum": 2
+        }
+      },
+      {
+        "code": "southern africa",
+        "new": {
+          "count": 1,
+          "sum": 1
+        }
+      },
+      {
+        "code": "southern europe",
+        "new": {
+          "count": 1,
+          "sum": 1
+        }
+      },
+      {
+        "code": "south america",
+        "new": {
+          "count": 2,
+          "sum": 2
+        }
+      },
+      {
+        "code": "western asia",
+        "new": {
+          "count": 1,
+          "sum": 1
+        }
+      },
+      {
+        "code": "eastern africa",
+        "new": {
+          "count": 1,
+          "sum": 1
+        }
+      }
+    ],
+    "ipv4": [
+      {
+        "code": "eastern asia",
+        "new": {
+          "count": 1801,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "1813504"
+          }
+        }
+      },
+      {
+        "code": "south-eastern asia",
+        "new": {
+          "count": 649,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "553472"
+          }
+        }
+      },
+      {
+        "code": "southern asia",
+        "new": {
+          "count": 1574,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "1462016"
+          }
+        }
+      },
+      {
+        "code": "oceania",
+        "new": {
+          "count": 401,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "271104"
+          }
+        }
+      }
+    ],
+    "ipv6": [
+      {
+        "code": "eastern asia",
+        "new": {
+          "count": 355,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "1.4736441854430625636286698881024e+32"
+          }
+        }
+      },
+      {
+        "code": "oceania",
+        "new": {
+          "count": 147,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "7.28906711363895478024404992e+30"
+          }
+        }
+      },
+      {
+        "code": "south-eastern asia",
+        "new": {
+          "count": 156,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "6.49680362238360562374623100928e+30"
+          }
+        }
+      },
+      {
+        "code": "southern asia",
+        "new": {
+          "count": 108,
+          "sum": {
+            "mathjs": "BigNumber",
+            "value": "4.75375019714684098707137232896e+30"
+          }
+        }
+      },
+      {
+        "code": "regional",
+        "new": {
+          "count": 1,
+          "sum": "1.208925819614629174706176e+24"
+        }
+      },
+      {
+        "code": "northern america",
+        "new": {
+          "count": 1,
+          "sum": "7.9228162514264337593543950336e+28"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "airbnb"
+  ],
+  "comments": true,
+  "sourceMaps": true,
+  "retainLines": true
+}

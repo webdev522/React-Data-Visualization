@@ -1,0 +1,21 @@
+<div class="tabular jobs">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">STARTED AT</th>
+        <th scope="col">ENDED AT</th>
+        <th scope="col">STATUS</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each response}}
+      <tr>
+        <td class="timestamp">{{this.startedAt}}</td>
+        <td class="timestamp">{{this.endedAt}}</td>
+        <td class="status {{this.status}}">{{this.status}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>
+

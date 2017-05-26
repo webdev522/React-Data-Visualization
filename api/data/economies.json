@@ -1,0 +1,1801 @@
+[
+  {
+    "code": "ac",
+    "country": "ASCENSION ISLAND",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "ad",
+    "country": "ANDORRA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "ae",
+    "country": "UNITED ARAB EMIRATES",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "af",
+    "country": "AFGHANISTAN",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "ag",
+    "country": "ANTIGUA AND BARBUDA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "ai",
+    "country": "ANGUILLA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "al",
+    "country": "ALBANIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "am",
+    "country": "ARMENIA",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "an",
+    "country": "NETHERLANDS ANTILLES",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "ao",
+    "country": "ANGOLA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "ap",
+    "country": "ASIA PACIFIC REGION",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "REGIONAL"
+  },
+  {
+    "code": "aq",
+    "country": "ANTARCTICA",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "ar",
+    "country": "ARGENTINA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "as",
+    "country": "AMERICAN SAMOA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "at",
+    "country": "AUSTRIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "au",
+    "country": "AUSTRALIA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "aw",
+    "country": "ARUBA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "ax",
+    "country": "ALAND ISLANDS",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "az",
+    "country": "AZERBAIJAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "ba",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "bb",
+    "country": "BARBADOS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "bd",
+    "country": "BANGLADESH",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "be",
+    "country": "BELGIUM",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "bf",
+    "country": "BURKINA FASO",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "bg",
+    "country": "BULGARIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "bh",
+    "country": "BAHRAIN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "bi",
+    "country": "BURUNDI",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "bj",
+    "country": "BENIN",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "bl",
+    "country": "SAINT-BARTHELEMY",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "bm",
+    "country": "BERMUDA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "NORTHERN AMERICA"
+  },
+  {
+    "code": "bn",
+    "country": "BRUNEI DARUSSALAM",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "bo",
+    "country": "BOLIVIA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "br",
+    "country": "BRAZIL",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "bs",
+    "country": "BAHAMAS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "bt",
+    "country": "BHUTAN",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "bv",
+    "country": "BOUVET ISLAND",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "bw",
+    "country": "BOTSWANA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "code": "by",
+    "country": "BELARUS",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "bz",
+    "country": "BELIZE",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "ca",
+    "country": "CANADA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "NORTHERN AMERICA"
+  },
+  {
+    "code": "cc",
+    "country": "COCOS  AND KEELING ISLANDS",
+    "rir": "APNIC",
+    "region": "",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "cd",
+    "country": "DEMOCRATIC REPUBLIC OF THE CONGO",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "cf",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "cg",
+    "country": "CONGO",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "ch",
+    "country": "SWITZERLAND",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "ci",
+    "country": "COTE D'IVOIRE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "ck",
+    "country": "COOK ISLANDS",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "cl",
+    "country": "CHILE",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "cm",
+    "country": "CAMEROON",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "cn",
+    "country": "CHINA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "co",
+    "country": "COLOMBIA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "cp",
+    "country": "CLIPPERTON ISLAND",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "cr",
+    "country": "COSTA RICA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "cs",
+    "country": "SERBIA AND MONTENEGRO",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "cu",
+    "country": "CUBA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "cv",
+    "country": "CAPE VERDE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "cx",
+    "country": "CHRISTMAS ISLAND",
+    "rir": "APNIC",
+    "region": "",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "cy",
+    "country": "CYPRUS",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "cz",
+    "country": "CZECH REPUBLIC",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "de",
+    "country": "GERMANY",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "dg",
+    "country": "DIEGO GARCIA",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "dj",
+    "country": "DJIBOUTI",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "dk",
+    "country": "DENMARK",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "dm",
+    "country": "DOMINICA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "do",
+    "country": "DOMINICAN REPUBLIC",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "dz",
+    "country": "ALGERIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "ea",
+    "country": "CEUTA AND MELILLA",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "ec",
+    "country": "ECUADOR",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "ee",
+    "country": "ESTONIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "eg",
+    "country": "EGYPT",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "eh",
+    "country": "WESTERN SAHARA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "er",
+    "country": "ERITREA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "es",
+    "country": "SPAIN",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "et",
+    "country": "ETHIOPIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "eu",
+    "country": "EUROPEAN UNION",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "fi",
+    "country": "FINLAND",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "fj",
+    "country": "FIJI",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "fk",
+    "country": "FALKLAND ISLANDS {MALVINAS}",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "fm",
+    "country": "MICRONESIA {FEDERATED STATES OF}",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "fo",
+    "country": "FAEROEISLANDS",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "fr",
+    "country": "FRANCE",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "ga",
+    "country": "GABON",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "gb",
+    "country": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "gd",
+    "country": "GRENADA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "ge",
+    "country": "GEORGIA",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "gf",
+    "country": "FRENCH GUIANA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "gg",
+    "country": "GUERNSEY",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "gh",
+    "country": "GHANA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "gi",
+    "country": "GIBRALTAR",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "gl",
+    "country": "GREENLAND",
+    "rir": "RIPENCC",
+    "region": "AMERICAS",
+    "subregion": "NORTHERN AMERICA"
+  },
+  {
+    "code": "gm",
+    "country": "GAMBIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "gn",
+    "country": "GUINEA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "gp",
+    "country": "GUADELOUPE",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "gq",
+    "country": "EQUATORIAL GUINEA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "gr",
+    "country": "GREECE",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "gs",
+    "country": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "rir": "LACNIC",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "gt",
+    "country": "GUATEMALA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "gu",
+    "country": "GUAM",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "gw",
+    "country": "GUINEA-BISSAU",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "gy",
+    "country": "GUYANA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "hk",
+    "country": "HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "hm",
+    "country": "HEARD AND MC DONALD ISLANDS",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "hn",
+    "country": "HONDURAS",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "hr",
+    "country": "CROATIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "ht",
+    "country": "HAITI",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "hu",
+    "country": "HUNGARY",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "ic",
+    "country": "CANARY ISLANDS",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "id",
+    "country": "INDONESIA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "ie",
+    "country": "IRELAND",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "il",
+    "country": "ISRAEL",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "im",
+    "country": "ISLE OF MAN",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "in",
+    "country": "INDIA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "io",
+    "country": "BRITISH INDIAN OCEAN TERRITORY",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "iq",
+    "country": "IRAQ",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "ir",
+    "country": "IRAN {ISLAMIC REPUBLIC OF}",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "is",
+    "country": "ICELAND",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "it",
+    "country": "ITALY",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "je",
+    "country": "JERSEY",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "jm",
+    "country": "JAMAICA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "jo",
+    "country": "JORDAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "jp",
+    "country": "JAPAN",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "ke",
+    "country": "KENYA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "kg",
+    "country": "KYRGYZSTAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "CENTRAL ASIA"
+  },
+  {
+    "code": "kh",
+    "country": "CAMBODIA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "ki",
+    "country": "KIRIBATI",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "km",
+    "country": "COMOROS",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "kn",
+    "country": "SAINT KITTS AND NEVIS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "kp",
+    "country": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "kr",
+    "country": "REPUBLIC OF KOREA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "kw",
+    "country": "KUWAIT",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "ky",
+    "country": "CAYMAN ISLANDS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "kz",
+    "country": "KAZAKHSTAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "CENTRAL ASIA"
+  },
+  {
+    "code": "la",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "lb",
+    "country": "LEBANON",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "lc",
+    "country": "SAINT LUCIA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "li",
+    "country": "LIECHTENSTEIN",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "lk",
+    "country": "SRI LANKA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "lr",
+    "country": "LIBERIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "ls",
+    "country": "LESOTHO",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "code": "lt",
+    "country": "LITHUANIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "lu",
+    "country": "LUXEMBOURG",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "lv",
+    "country": "LATVIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "ly",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "ma",
+    "country": "MOROCCO",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "mc",
+    "country": "MONACO",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "md",
+    "country": "REPUBLIC OF MOLDOVA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "me",
+    "country": "MONTENEGRO",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "mf",
+    "country": "SAINT MARTIN",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "mg",
+    "country": "MADAGASCAR",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "mh",
+    "country": "MARSHALL ISLANDS",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "mk",
+    "country": "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "ml",
+    "country": "MALI",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "mm",
+    "country": "MYANMAR",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "mn",
+    "country": "MONGOLIA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "mo",
+    "country": "MACAO SPECIAL ADMINISTRATIVE REGION OF CHINA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "mp",
+    "country": "NORTHERN MARIANA ISLANDS",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "mq",
+    "country": "MARTINIQUE",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "mr",
+    "country": "MAURITANIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "ms",
+    "country": "MONTSERRAT",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "mt",
+    "country": "MALTA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "mu",
+    "country": "MAURITIUS",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "mv",
+    "country": "MALDIVES",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "mw",
+    "country": "MALAWI",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "mx",
+    "country": "MEXICO",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "my",
+    "country": "MALAYSIA",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "mz",
+    "country": "MOZAMBIQUE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "na",
+    "country": "NAMIBIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "code": "nc",
+    "country": "NEW CALEDONIA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "ne",
+    "country": "NIGER",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "nf",
+    "country": "NORFOLK ISLAND",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "ng",
+    "country": "NIGERIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "ni",
+    "country": "NICARAGUA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "nl",
+    "country": "NETHERLANDS",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "WESTERN EUROPE"
+  },
+  {
+    "code": "no",
+    "country": "NORWAY",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "np",
+    "country": "NEPAL",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "nr",
+    "country": "NAURU",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "nt",
+    "country": "NEUTRAL ZONE",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "nu",
+    "country": "NIUE",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "nz",
+    "country": "NEW ZEALAND",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "om",
+    "country": "OMAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "pa",
+    "country": "PANAMA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "pe",
+    "country": "PERU",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "pf",
+    "country": "FRENCH POLYNESIA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "pg",
+    "country": "PAPUA NEW GUINEA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "ph",
+    "country": "PHILIPPINES",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "pk",
+    "country": "PAKISTAN",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTHERN ASIA"
+  },
+  {
+    "code": "pl",
+    "country": "POLAND",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "pm",
+    "country": "SAINT PIERRE AND MIQUELON",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "NORTHERN AMERICA"
+  },
+  {
+    "code": "pn",
+    "country": "PITCAIRN",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "pr",
+    "country": "PUERTO RICO",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "ps",
+    "country": "OCCUPIED PALESTINIAN TERRITORY",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "pt",
+    "country": "PORTUGAL",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "pw",
+    "country": "PALAU",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "py",
+    "country": "PARAGUAY",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "qa",
+    "country": "QATAR",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "re",
+    "country": "REUNION",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "ro",
+    "country": "ROMANIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "rs",
+    "country": "SERBIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "ru",
+    "country": "RUSSIAN FEDERATION",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "rw",
+    "country": "RWANDA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "sa",
+    "country": "SAUDI ARABIA",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "sb",
+    "country": "SOLOMON ISLANDS",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "sc",
+    "country": "SEYCHELLES",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "sd",
+    "country": "SUDAN",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "se",
+    "country": "SWEDEN",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "sg",
+    "country": "SINGAPORE",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "sh",
+    "country": "SAINT HELENA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "si",
+    "country": "SLOVENIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "sj",
+    "country": "SVALBARD AND JAN MAYEN ISLANDS",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "sk",
+    "country": "SLOVAKIA",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "sl",
+    "country": "SIERRA LEONE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "sm",
+    "country": "SAN MARINO",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "sn",
+    "country": "SENEGAL",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "so",
+    "country": "SOMALIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "sr",
+    "country": "SURINAME",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "st",
+    "country": "SAO TOME AND PRINCIPE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "sv",
+    "country": "EL SALVADOR",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CENTRAL AMERICA"
+  },
+  {
+    "code": "sy",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "sz",
+    "country": "SWAZILAND",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "code": "ta",
+    "country": "TRISTAN DA CUNHA",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "tc",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "td",
+    "country": "CHAD",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "code": "tf",
+    "country": "FRENCH SOUTHERN TERRITORIES",
+    "rir": "APNIC",
+    "region": "",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "tg",
+    "country": "TOGO",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "code": "th",
+    "country": "THAILAND",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "tj",
+    "country": "TAJIKISTAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "CENTRAL ASIA"
+  },
+  {
+    "code": "tk",
+    "country": "TOKELAU",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "tl",
+    "country": "TIMOR-LESTE",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "tm",
+    "country": "TURKMENISTAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "CENTRAL ASIA"
+  },
+  {
+    "code": "tn",
+    "country": "TUNISIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "code": "to",
+    "country": "TONGA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "tr",
+    "country": "TURKEY",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "tt",
+    "country": "TRINIDAD AND TOBAGO",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "tv",
+    "country": "TUVALU",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "tw",
+    "country": "TAIWAN",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "EASTERN ASIA"
+  },
+  {
+    "code": "tz",
+    "country": "UNITED REPUBLIC OF TANZANIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "ua",
+    "country": "UKRAINE",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "EASTERN EUROPE"
+  },
+  {
+    "code": "ug",
+    "country": "UGANDA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "uk",
+    "country": "UNITIED KINGDOM",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "NORTHERN EUROPE"
+  },
+  {
+    "code": "um",
+    "country": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "rir": "ARIN",
+    "region": "",
+    "subregion": ""
+  },
+  {
+    "code": "us",
+    "country": "UNITED STATES OF AMERICA",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "NORTHERN AMERICA"
+  },
+  {
+    "code": "uy",
+    "country": "URUGUAY",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "uz",
+    "country": "UZBEKISTAN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "CENTRAL ASIA"
+  },
+  {
+    "code": "va",
+    "country": "HOLY SEE",
+    "rir": "RIPENCC",
+    "region": "EUROPE",
+    "subregion": "SOUTHERN EUROPE"
+  },
+  {
+    "code": "vc",
+    "country": "SAINT VINCENT AND THE GRENADINES",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "ve",
+    "country": "VENEZUELA",
+    "rir": "LACNIC",
+    "region": "AMERICAS",
+    "subregion": "SOUTH AMERICA"
+  },
+  {
+    "code": "vg",
+    "country": "BRITISH VIRGIN ISLANDS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "vi",
+    "country": "UNITED STATES VIRGIN ISLANDS",
+    "rir": "ARIN",
+    "region": "AMERICAS",
+    "subregion": "CARIBBEAN"
+  },
+  {
+    "code": "vn",
+    "country": "VIETNAM",
+    "rir": "APNIC",
+    "region": "ASIA",
+    "subregion": "SOUTH-EASTERN ASIA"
+  },
+  {
+    "code": "vu",
+    "country": "VANUATU",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "wf",
+    "country": "WALLIS AND FUTUNA ISLANDS",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "ws",
+    "country": "SAMOA",
+    "rir": "APNIC",
+    "region": "OCEANIA",
+    "subregion": "OCEANIA"
+  },
+  {
+    "code": "ye",
+    "country": "YEMEN",
+    "rir": "RIPENCC",
+    "region": "ASIA",
+    "subregion": "WESTERN ASIA"
+  },
+  {
+    "code": "yt",
+    "country": "MAYOTTE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "za",
+    "country": "SOUTH AFRICA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "code": "zm",
+    "country": "ZAMBIA",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "code": "zw",
+    "country": "ZIMBABWE",
+    "rir": "AFRINIC",
+    "region": "AFRICA",
+    "subregion": "EASTERN AFRICA"
+  }
+]

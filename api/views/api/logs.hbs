@@ -1,0 +1,23 @@
+<div class="tabular logs">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">TIMESTAMP</th>
+        <th scope="col">LABEL</th>
+        <th scope="col">LEVEL</th>
+        <th scope="col">MESSAGE</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each response}}
+      <tr>
+        <td class="timestamp">{{this.timestamp}}</td>
+        <td class="label">{{this.label}}</td>
+        <td class="level {{this.level}}">{{this.level}}</td>
+        <td class="message">{{this.message}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>
+

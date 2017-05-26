@@ -1,0 +1,63 @@
+<br/>
+<table>
+  <tbody>
+    <tr>
+      <th>URL</th>
+      <td>/delegations/new/range</td>
+    </tr>
+    <tr>
+      <th>DESCRIPTION</th>
+      <td>Fetches list of new delegations from a date range.</td>
+    </tr>
+    <tr>
+      <th>EXAMPLE</th>
+      <td>
+        <a href="/delegations/new/range?start=20101130&end=20120131&types=asn,ipv4,ipv6&economy=subregion&format=html">
+          <span>/delegations/new/range?start=20101130&end=20120131&types=asn,ipv4,ipv6&economy=subregion&format=html</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>PARAMETERS</th>
+      <td>
+        <table class="parameters">
+          <thead>
+            <tr>
+              <th scope="col">name</th>
+              <th scope="col">description</th>
+              <th scope="col">default</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>start</td>
+              <td>Start date in ISO 8601 basic format.</td>
+              <td>20080214</td>
+            </tr>
+            <tr>
+              <td>end</td>
+              <td>End date in ISO 8601 basic format.</td>
+              <td>20161010</td>
+            </tr>
+            <tr>
+              <td>types</td>
+              <td>Comma-separated list of allocation types.</td>
+              <td>asn,ipv4,ipv6</td>
+            </tr>
+            <tr>
+              <td>economy</td>
+              <td>Either country, subregion or region.</td>
+              <td>country</td>
+            </tr>
+            <tr>
+              <td>format</td>
+              <td>Either html or json.</td>
+              <td>json</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>

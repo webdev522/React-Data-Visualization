@@ -1,0 +1,1 @@
+{"options":{"capped":true,"size":10000128},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"apnic.logs"},{"v":1,"key":{"timestamp":-1},"name":"timestamp_1","ns":"apnic.logs","background":true}]}

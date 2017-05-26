@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "airbnb"
+  ],
+  "env": {
+    "es6": true,
+    "browser": true
+  },
+  "globals": {
+    "log": true,
+    "base": true,
+    "cfg": true
+  },
+  "rules": {
+    "no-console": "off",
+    "consistent-return": "off",
+    "no-shadow": ["error", { "allow": ["state", "resolve","reject", "err", "cb"] }],
+    "no-unused-expressions": ["error", { "allowTernary": true }],
+    "no-unused-vars": ["error", { "argsIgnorePattern": "next"}],
+    "no-underscore-dangle": ["error", { "allow": ["_id"] }],
+    "class-methods-use-this": off,
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": ["**/*.test.js", "**/*.spec.js"] }],
+    "react/jsx-filename-extension": "off",
+    "react/forbid-prop-types": "off",
+    "react/no-array-index-key": "off",
+    "react/prop-types": "off",
+    "jsx-a11y/href-no-hash": "off"
+  },
+}

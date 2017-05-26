@@ -1,0 +1,134 @@
+/* all */
+
+* {
+  font-family: monospace;
+}
+
+/* documentation */
+
+.documentation {
+  font-family: monospace;
+  font-size: 12px;
+  width: 960px;
+}
+
+.documentation table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.documentation > table > tbody > tr > th {
+  text-align: left;
+  padding-right: 30px;
+}
+
+.documentation td {
+  padding-right: 30px;
+}
+
+.documentation .parameters > thead > tr > th {
+  text-align: left;
+  padding-right: 30px;
+}
+
+.documentation > table > tbody > tr {
+  border-bottom: 1px solid black;
+}
+
+.documentation > table > tbody > tr > th {
+  width: 100px;
+}
+
+/* tabular */
+
+.tabular {
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.tabular table {
+  border-collapse: collapse;
+  margin: 0 0 30px 0;
+}
+
+.tabular > table > thead {
+  border-bottom: 1px solid black;
+}
+
+.tabular > table > thead > tr {
+  text-align: left;
+}
+
+.tabular > table tr > td {
+  padding-right: 30px;
+}
+
+.tabular > table tr > th {
+  padding-right: 30px;
+}
+
+.tabular td {
+  white-space: nowrap;
+}
+
+/* logs */
+
+.logs .timestamp {
+  color: #555;
+}
+
+.logs .message {
+  color: #555;
+}
+
+.logs .level {
+  font-weight: bold;
+}
+
+.logs .level.verbose {
+  color: grey;
+}
+
+.logs .level.debug {
+  color: blue;
+}
+
+.logs .level.info {
+  color: green;
+}
+
+.logs .level.warn {
+  color: orange;
+}
+
+.logs .level.error {
+  color: red;
+}
+
+.logs .level.fatal {
+  background-color: red;
+  color: white;
+}
+
+/* jobs */
+
+.jobs .timestamp {
+  color: #555;
+}
+
+.jobs .status {
+  font-weight: bold;
+}
+
+.jobs .status.completed {
+  color: green;
+}
+
+.jobs .status.failed {
+  color: red;
+}
+
+.jobs .status.started {
+  color: orange;
+}
+

@@ -1,0 +1,62 @@
+<br/>
+<table>
+  <tbody>
+    <tr>
+      <th>URL</th>
+      <td>/logs</td>
+    </tr>
+    <tr>
+      <th>DESCRIPTION</th>
+      <td>Fetches logs of modules from database.</td>
+    </tr>
+    <tr>
+      <th>EXAMPLE</th>
+      <td>
+        <a href="/logs?labels=api,connector&amp;limit=1000&amp;sort=newest&amp;levels=fatal,error,warn,info&amp;format=html">
+          <span>/logs?labels=api,connector&amp;limit=1000&amp;sort=newest&amp;levels=fatal,error,warn,info&amp;format=html</span></a>
+      </td>
+    </tr>
+    <tr>
+      <th>PARAMETERS</th>
+      <td>
+        <table class="parameters">
+          <thead>
+            <tr>
+              <th scope="col">name</th>
+              <th scope="col">description</th>
+              <th scope="col">default</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>labels</td>
+              <td>Comma-separated list of labels.</td>
+              <td>api,connector</td>
+            </tr>
+            <tr>
+              <td>limit</td>
+              <td>Any unsigned integer.</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td>sort</td>
+              <td>Either "newest" or "oldest".</td>
+              <td>newest</td>
+            </tr>
+            <tr>
+              <td>levels</td>
+              <td>Comma-separated list of levels.</td>
+              <td>fatal,error,warn,info,verbose,debug</td>
+            </tr>
+            <tr>
+              <td>format</td>
+              <td>Either html or json.</td>
+              <td>json</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
